@@ -2,6 +2,8 @@
 
 Este repositório contém a resolução completa da atividade prática de **Inteligência Artificial / Algoritmos Genéticos** aplicada ao clássico **Problema das 8 Rainhas (8-Queens Puzzle)**.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xdavi3/Atividade-Implementa-o-do-Algoritmo-Gen-tico-para-o-Problema-das-8-Rainhas/blob/main/IA-GeneticAlgorithm-8queens-exercicio.ipynb)
+
 ---
 
 ## 🎯 Objetivo
